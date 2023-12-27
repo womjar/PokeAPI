@@ -6,6 +6,8 @@ In an IDE with Python installed (3.10+), create a virtual environment and copy t
  (2) .env
  (3) requirements.txt
 
+WARNING: Be careful when download the configuration file .env
+
 Next, run the following command: pip install -r requirements.txt, then run:
 
 uvicorn berries:app 
